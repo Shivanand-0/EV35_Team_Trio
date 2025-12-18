@@ -10,4 +10,4 @@ Info about Repositories:
 
 - Optional Resource File: `STATS20_2025_specification_code_standerd.pdf`
 
--Trained Model: `https://drive.google.com/drive/folders/1kd58QDSqdLexR-38RnfE7g8-5An2zxGK?usp=sharing`
+-Trained Model: <a href='https://drive.google.com/drive/folders/1kd58QDSqdLexR-38RnfE7g8-5An2zxGK?usp=sharing'>
