@@ -68,9 +68,23 @@ The notebook is organized sequentially to reflect a standard ML pipeline.
   Interactive Power BI dashboard used to visualize:
   - Accident trends  
   - Severity distribution  
-  - Key influencing factors  
+  - Key influencing factors
 
-## screenshots  
+## PowerBi Visualisation Screenshots
+  - Overview Dashboard
+<img src="https://github.com/Shivanand-0/EV35_Team_Trio/blob/main/screenshots/overview_Dashboard.png">
+
+- Overview Dashboard with Slice
+<img src="https://github.com/Shivanand-0/EV35_Team_Trio/blob/main/screenshots/overview_Dashboard_with_slice.png">
+
+- Time Analysis DashBoard
+<img src="https://github.com/Shivanand-0/EV35_Team_Trio/blob/main/screenshots/Time_analysis_DashBoard.png">
+
+- Geographic Analysis
+<img src="https://github.com/Shivanand-0/EV35_Team_Trio/blob/main/screenshots/Geographic_analysis.png">
+
+
+## Python Visualisation screenshots  
 - Kernal Density Estimation
 <img src="https://github.com/Shivanand-0/EV35_Team_Trio/blob/main/screenshots/Kernal_Density_Estimation.png">
 
