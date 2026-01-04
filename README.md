@@ -16,7 +16,7 @@ The repository is structured to reflect **professional ML project practices**, w
 ---
 
 ## Repository Structure
-
+```
 EV35_Team_Trio/
 ├── code/
 │ └── source_code.ipynb
@@ -29,8 +29,9 @@ EV35_Team_Trio/
 │ └── Accident_dashboard.pbix
 ├── screenshots/
 │ └── Dashboard.png
+| |__ ............
 └── README.md
-
+```
 
 ---
 
