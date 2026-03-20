@@ -1,5 +1,6 @@
 # EV35 Team Trio – Road Accident Severity Analysis
 
+## Live link: https://road-accident-severity-predictor.streamlit.app/
 ## Overview
 This project was developed as part of an **ML hackathon (EV35)** and focuses on analyzing road accident data to derive insights and build predictive understanding around accident severity. The solution combines **machine learning, statistical analysis, and data visualization** to support data-driven decision-making for road safety.
 
